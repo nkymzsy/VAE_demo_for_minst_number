@@ -56,7 +56,7 @@ python train_cvae.py
 python inference_vae.py
 ```
 
-#### 使用条件VAE生成指定数字 ✨
+#### 使用条件VAE生成指定数字
 ```bash
 python inference_cvae.py
 ```
